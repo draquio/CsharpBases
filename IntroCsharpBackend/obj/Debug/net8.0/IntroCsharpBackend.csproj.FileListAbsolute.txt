@@ -1,0 +1,14 @@
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.exe
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.deps.json
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.runtimeconfig.json
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.dll
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\bin\Debug\net8.0\IntroCsharpBackend.pdb
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.AssemblyInfoInputs.cache
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.AssemblyInfo.cs
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.csproj.CoreCompileInputs.cache
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.dll
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\refint\IntroCsharpBackend.dll
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.pdb
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\IntroCsharpBackend.genruntimeconfig.cache
+E:\Net\IntroCsharpBackend\IntroCsharpBackend\obj\Debug\net8.0\ref\IntroCsharpBackend.dll

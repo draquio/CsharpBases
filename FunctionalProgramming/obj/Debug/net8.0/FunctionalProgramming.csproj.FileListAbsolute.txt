@@ -1,0 +1,14 @@
+E:\Net\IntroCsharpBackend\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.exe
+E:\Net\IntroCsharpBackend\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.deps.json
+E:\Net\IntroCsharpBackend\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+E:\Net\IntroCsharpBackend\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.dll
+E:\Net\IntroCsharpBackend\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.pdb
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfoInputs.cache
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfo.cs
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.dll
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\refint\FunctionalProgramming.dll
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.pdb
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.genruntimeconfig.cache
+E:\Net\IntroCsharpBackend\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgramming.dll

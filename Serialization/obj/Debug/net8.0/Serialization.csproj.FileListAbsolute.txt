@@ -1,0 +1,14 @@
+E:\Net\IntroCsharpBackend\Serialization\bin\Debug\net8.0\Serialization.exe
+E:\Net\IntroCsharpBackend\Serialization\bin\Debug\net8.0\Serialization.deps.json
+E:\Net\IntroCsharpBackend\Serialization\bin\Debug\net8.0\Serialization.runtimeconfig.json
+E:\Net\IntroCsharpBackend\Serialization\bin\Debug\net8.0\Serialization.dll
+E:\Net\IntroCsharpBackend\Serialization\bin\Debug\net8.0\Serialization.pdb
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.AssemblyInfoInputs.cache
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.AssemblyInfo.cs
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.csproj.CoreCompileInputs.cache
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.dll
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\refint\Serialization.dll
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.pdb
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\Serialization.genruntimeconfig.cache
+E:\Net\IntroCsharpBackend\Serialization\obj\Debug\net8.0\ref\Serialization.dll

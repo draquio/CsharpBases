@@ -1,0 +1,14 @@
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.AssemblyInfoInputs.cache
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.AssemblyInfo.cs
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.csproj.CoreCompileInputs.cache
+E:\Net\IntroCsharpBackend\Intarfeces\bin\Debug\net8.0\Intarfeces.exe
+E:\Net\IntroCsharpBackend\Intarfeces\bin\Debug\net8.0\Intarfeces.deps.json
+E:\Net\IntroCsharpBackend\Intarfeces\bin\Debug\net8.0\Intarfeces.runtimeconfig.json
+E:\Net\IntroCsharpBackend\Intarfeces\bin\Debug\net8.0\Intarfeces.dll
+E:\Net\IntroCsharpBackend\Intarfeces\bin\Debug\net8.0\Intarfeces.pdb
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.dll
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\refint\Intarfeces.dll
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.pdb
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\Intarfeces.genruntimeconfig.cache
+E:\Net\IntroCsharpBackend\Intarfeces\obj\Debug\net8.0\ref\Intarfeces.dll
