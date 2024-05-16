@@ -5,15 +5,17 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesHerencia", "IntroCsharpBackend\ClasesHerencia.csproj", "{1541A68C-9496-42E2-B9A2-21861B45D4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{1CC66B99-38F9-4BA5-9E93-DB4880295F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{1CC66B99-38F9-4BA5-9E93-DB4880295F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intarfeces", "Intarfeces\Intarfeces.csproj", "{57F7DCCA-88D0-496D-8EEF-175CE40BA367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intarfeces", "Intarfeces\Intarfeces.csproj", "{57F7DCCA-88D0-496D-8EEF-175CE40BA367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{4ED04A29-D8A1-4665-A73D-BFAC6A243F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "Serialization\Serialization.csproj", "{4ED04A29-D8A1-4665-A73D-BFAC6A243F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{E2E6436E-B950-471C-8E52-64105BE834C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{E2E6436E-B950-471C-8E52-64105BE834C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{607233FA-63E0-41B2-8A0B-E4BD1198CBF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{607233FA-63E0-41B2-8A0B-E4BD1198CBF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{5925779D-E8C1-4F25-95F0-A8DE6BC5F2B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{607233FA-63E0-41B2-8A0B-E4BD1198CBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607233FA-63E0-41B2-8A0B-E4BD1198CBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607233FA-63E0-41B2-8A0B-E4BD1198CBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5925779D-E8C1-4F25-95F0-A8DE6BC5F2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5925779D-E8C1-4F25-95F0-A8DE6BC5F2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5925779D-E8C1-4F25-95F0-A8DE6BC5F2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5925779D-E8C1-4F25-95F0-A8DE6BC5F2B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

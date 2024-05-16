@@ -1,0 +1,15 @@
+E:\Net\IntroCsharpBackend\Linq\bin\Debug\net8.0\Linq.exe
+E:\Net\IntroCsharpBackend\Linq\bin\Debug\net8.0\Linq.deps.json
+E:\Net\IntroCsharpBackend\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+E:\Net\IntroCsharpBackend\Linq\bin\Debug\net8.0\Linq.dll
+E:\Net\IntroCsharpBackend\Linq\bin\Debug\net8.0\Linq.pdb
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.sourcelink.json
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.dll
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\refint\Linq.dll
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.pdb
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+E:\Net\IntroCsharpBackend\Linq\obj\Debug\net8.0\ref\Linq.dll
